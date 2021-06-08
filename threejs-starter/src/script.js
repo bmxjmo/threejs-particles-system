@@ -6,7 +6,7 @@ import * as dat from 'dat.gui'
 // Loading
 
 const loader = new THREE.TextureLoader();
-const star = loader.load('/textures/star.png');
+const star = loader.load('/textures/star-map.png');
 
 // Debug
 const gui = new dat.GUI()
